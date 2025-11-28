@@ -62,7 +62,7 @@ task javadoc(type: Javadoc) {
 publishing {
     publications {
         gpr(MavenPublication) {
-            groupId = 'com.memories'
+            groupId = 'ai.memories'
             artifactId = 'ffmpeg-kit-https'
             version = '1.0.0'
 

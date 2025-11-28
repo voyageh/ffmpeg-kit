@@ -125,5 +125,5 @@ repositories {
 
 dependencies {
   api 'com.facebook.react:react-native:+'
-  implementation 'com.memories.ffmpeg-kit-https:1.0.0'
+  implementation 'ai.memories.ffmpeg-kit-https:1.0.0'
 }

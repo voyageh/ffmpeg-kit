@@ -1,5 +1,5 @@
 {
-  "name": "@voyageh/ffmpeg-kit-rn",
+  "name": "@voyageh/react-native-ffmpeg",
   "version": "1.0.0",
   "description": "FFmpeg Kit for React Native",
   "main": "src/index",
